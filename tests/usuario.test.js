@@ -7,7 +7,7 @@ test('O objeto usuario deve ter nome, idade e email', () => {
 });
 
 test('Os valores do objeto usuario devem ser corretos', () => {
-    expect(usuario.nome).toBe("Jovêncio Neto");
-    expect(usuario.idade).toBe(16);
-    expect(usuario.email).toBe("jovenciosigma@gmail.com");
+    expect(usuario.nome).toBe("Francisco venicio");
+    expect(usuario.idade).toBe(17);
+    expect(usuario.email).toBe("gmotoplay23@gmail.com");
 });
